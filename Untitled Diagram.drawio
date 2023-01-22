@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T20:26:52.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.4.0" etag="TtGHTG6r0DPdPywQ71dp" type="github"><diagram id="qMIrUSFHXRidIpgIO_8j">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-22T20:47:20.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3uTBrTu-DQfXWEIzr6Vu" version="20.4.0" type="github" pages="2">
+  <diagram id="qMIrUSFHXRidIpgIO_8j" name="Chapter-App">
+    <mxGraphModel dx="1635" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-5" target="tsZhEjEwhf4pjYN-47Q8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-5" target="tsZhEjEwhf4pjYN-47Q8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-5" value="Chapter" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-8" value="Chapter Leader" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-9" value="Chapter Members" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-11" target="tsZhEjEwhf4pjYN-47Q8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-11" target="tsZhEjEwhf4pjYN-47Q8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-11" target="tsZhEjEwhf4pjYN-47Q8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-11" value="Chapter Events" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-13" value="Community Events" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-15" value="Affiliate Events" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-17" value="AYP Events" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsZhEjEwhf4pjYN-47Q8-20" target="tsZhEjEwhf4pjYN-47Q8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsZhEjEwhf4pjYN-47Q8-20" value="AYP Member" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HIPhVxxgbPYFaThKcqyS" name="Group App">
+    <mxGraphModel dx="1363" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcIUHCNeKii7QbdfRZMi-1" target="zcIUHCNeKii7QbdfRZMi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcIUHCNeKii7QbdfRZMi-1" target="zcIUHCNeKii7QbdfRZMi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcIUHCNeKii7QbdfRZMi-1" target="zcIUHCNeKii7QbdfRZMi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-1" value="Group" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-2" value="Bible Study Groups" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-3" value="Professional Affinity Groups" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcIUHCNeKii7QbdfRZMi-4" value="Social Hobby Groups" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
